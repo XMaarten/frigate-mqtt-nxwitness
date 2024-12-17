@@ -7,7 +7,9 @@
     },
     "mqtt": {
         "host": "192.168.0.100",
-        "topic": "frigate"
+        "topic": "frigate",
+        "username": "admin",
+        "password": "YOURPASSWORD"
     },
     "cameraMap": [
         {
